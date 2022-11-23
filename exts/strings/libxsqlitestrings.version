@@ -1,0 +1,6 @@
+{
+	global:
+		sqlite3_xsqlitestrings_init;
+	local:
+		*;
+};
