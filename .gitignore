@@ -1,0 +1,8 @@
+build/
+exts/build/
+dist/
+*.pyc
+*.egg-info
+*.so
+*.pem
+.mesonpy-native-file.ini
